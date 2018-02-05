@@ -1,0 +1,6 @@
+[submodule "CarND-LaneLines-P1"]
+	path = CarND-LaneLines-P1
+	url = https://github.com/udacity/CarND-LaneLines-P1.git
+[submodule "Project1/CarND-LaneLines-Proj1"]
+	path = Project1/CarND-LaneLines-Proj1
+	url = https://github.com/udacity/CarND-laneLines-P1.git
